@@ -1,4 +1,4 @@
-**Resumo do Caderno para GitHub: Análise de Ações da B3**
+**Resumo do Caderno: Análise de Ações da B3**
 
 O caderno em questão realiza uma análise de ações da B3 (Bolsa de Valores brasileira) com o objetivo de agrupá-las em clusters, utilizando técnicas como Clusterização Hierárquica e DBSCAN. Abaixo segue um resumo dos principais passos e resultados obtidos:
 
